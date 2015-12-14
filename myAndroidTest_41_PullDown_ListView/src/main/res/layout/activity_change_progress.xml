@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ImgMatrixActivity" 
+    >
+
+    <com.zf.pulldown_listview.cusview.MyCusListView3
+        android:id="@+id/myCuLv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none"
+        android:cacheColorHint="@android:color/transparent" >
+    </com.zf.pulldown_listview.cusview.MyCusListView3>
+
+</RelativeLayout>

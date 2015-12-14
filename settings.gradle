@@ -1,0 +1,3 @@
+include ':myAndroidTest_41_PullDown_ListView', ':swipdelete', ':swipedelete'
+include ':horizontalGridView'
+include ':slide_delete_ListView'
